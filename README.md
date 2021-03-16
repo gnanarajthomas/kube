@@ -1,5 +1,7 @@
 # Install Kubernetes cluster
 
+Cluster: 1 Master Node and 2 Worker Nodes
+
 OS: Ubuntu 18.04
 Ansible Version: 2.5.1
 kubeadm Version: 1.20.4-00 Kubernetes Cluster Bootstrapping Tool                                       
